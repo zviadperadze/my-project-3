@@ -1,0 +1,191 @@
+nav{
+	display: inline-block;
+
+}
+
+li{
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: middle;
+	margin-top: 20px;
+	color: blue;
+	height: 24px;
+	font-weight: bold;
+
+}
+
+.current{
+	color: red;
+
+}
+.sat {
+
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 100px;
+	height: 31px;
+}
+	
+.baneri {
+	width: 1170px;
+	height: 460px;
+}
+ 
+ .satauri1{
+/*	display: inline-block;*/
+	margin-left: 83px;
+	margin-top: 50px;
+	font-weight: bold;
+}
+
+.card1{
+	display: inline-block;
+	width: 570px;
+	height: 225px;
+	margin-left: 83px;
+	margin-top: 5px;
+	margin-bottom: 50px;
+/*	background-color: gray;*/
+	border-width: 5px;
+	border-style: none;
+	border-color: blue;
+
+	}
+
+
+
+h3{
+	margin-left: 20px;
+	margin-top: 20px;
+	color: blue;
+	font-weight: bold;
+} 
+	
+
+
+.titi{
+	display: inline-block;
+	width: 100px;
+	height: 117px;
+	vertical-align: top;
+	margin-top: 53px;
+	margin-left: 39px;
+	margin-right: 61px;
+}
+
+.tex1 {
+	display: inline-block;
+	width: 356px;
+	height: 143px;
+	size: 200px;
+	vertical-align: top;
+	margin-top: 53px;
+	
+	
+
+}
+
+.card2 {
+display: inline-block;
+	width: 570px;
+	height: 225px;
+	margin-top: 50px;
+	border-width: 5px;
+	border-style: none;
+	border-color: blue;
+
+}
+
+.mob {
+	display: inline-block;
+	width: 85px;
+	height: 128px;
+	margin-top: 53px;
+	margin-left: 36px;
+	vertical-align: top;
+}
+	
+.text2{
+	display: inline-block;
+	width: 354px;
+	height: 157px;
+	margin-top: 53px;
+	margin-left: 53px;
+	vertical-align: top;
+}
+
+.fb {
+	margin-top: 10px;
+	margin-left: 105px;
+}
+
+.yt{
+	margin-left: 50px;
+}
+
+.number{
+	display: inline-block;
+	width: 56px;
+	height: 56px;
+	color: #ffffff ;
+	background-color: blue;
+	padding: 7px;
+	font-size: 40px;
+	margin-left: 50px;
+	margin-top: 20px;
+
+}
+
+h2{
+	margin-left: 50px;
+	margin-top: 20px;
+
+}
+
+.divdzir{
+	margin-left: 30px;
+}
+
+	
+
+.div1{
+	display: inline-block;
+	width: 270px;
+	height: 210px;
+	vertical-align: top;
+
+}
+
+.dzir1 {
+	display: inline-block;
+	width: 930px;
+	height: 370px;
+	vertical-align: top;
+	margin-top: 10px;
+}
+
+.mis{
+	display: inline-block;
+	width: 239px;
+	height: 39;
+	vertical-align: top;
+	margin-top: 10px;
+	margin-left: 70px
+}
+
+.map{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	margin-left: 50px;
+
+}
+
+.mis2{
+	margin-left: 20px;
+	margin-top: 30px;
+}
